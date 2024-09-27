@@ -1,14 +1,6 @@
 # Welcome to my profile! 👋
 
-🚀 I'm a Full-Stack Web Developer passionate about building efficient, scalable, and user-friendly web applications. I have extensive experience in:
-
-- 🖥️ **Frontend**: React.js, HTML, CSS, JavaScript
-- 💻 **Backend**: ASP.NET, Node.js, C#, ADO.NET
-- 🛠️ **Databases**: SQL Server, Entity Framework
-- ☁️ **Development Tools**: GIT, Postman
-- 💻 **Coding Programs**: Visual Studio, Visual Studio Code, SQL Server Management Studio
-- 🎨 **Design Programs**: Krita, Photoshop, InDesign, Blender, Adobe Illustrator
-
+🚀 I'm a Full-Stack Web Developer passionate about building efficient, scalable, and user-friendly web applications.
 I'm always excited to explore new technologies and collaborate on open-source projects. Let's connect!
 
 🔗 [My Website](WORKING IN PROGRESS) | [LinkedIn](WORKING IN PROGRESS)
