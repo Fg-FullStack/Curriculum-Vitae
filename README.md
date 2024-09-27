@@ -13,9 +13,8 @@ I'm always excited to explore new technologies and collaborate on open-source pr
 
 🔗 [My Website](WORKING IN PROGRESS) | [LinkedIn](WORKING IN PROGRESS)
 
-## Skills --------------------------------------------------------------------------------------
+## Skills
                                                                                                
-
 ### HTML & CSS 🌐
 - **HTML 5**: Creating semantic and accessible page structures.
 - **CSS**: Styling and layout to enhance the visual appearance of web applications.
