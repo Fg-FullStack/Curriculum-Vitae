@@ -6,6 +6,8 @@
 - 💻 **Backend**: ASP.NET, Node.js, C#, ADO.NET
 - 🛠️ **Databases**: SQL Server, Entity Framework
 - ☁️ **Development Tools**: GIT, Postman
+- 💻 **Coding Programs**: Visual Studio, Visual Studio Code, SQL Server Management Studio
+- 🎨 **Design Programs**: Krita, Photoshop, InDesign, Blender, Adobe Illustrator
 
 I'm always excited to explore new technologies and collaborate on open-source projects. Let's connect!
 
@@ -53,6 +55,20 @@ I'm always excited to explore new technologies and collaborate on open-source pr
 ### Development Tools 🔧
 - **GIT**: Version control and source code management.
 - **Postman**: API development and testing tool for building and interacting with APIs.
+
+## Programs
+
+### Coding 💻
+- **Visual Studio**: Comprehensive IDE for .NET and C# development.
+- **Visual Studio Code**: Lightweight code editor for multiple programming languages.
+- **SQL Server Management Studio**: Tool for managing SQL Server databases.
+
+### Design 🎨
+- **Krita**: Open-source software for digital painting and 2D animation.
+- **Photoshop**: Industry standard for photo editing and graphic design.
+- **InDesign**: Professional layout software for creating print and digital media.
+- **Blender**: Open-source 3D creation software for modeling, animation, and rendering.
+- **Adobe Illustrator**: Vector graphics editor used for illustration, logos, and more.
 
 ### Types of Projects 📂
 I am passionate about developing both front-end and back-end projects, working closely with design teams to ensure optimal user experiences.
